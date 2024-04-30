@@ -4,4 +4,4 @@
 # (3) grid size
 # (4) simulation time steps
 # (5) number of grains added per step
-0 1 50 1000 200
+0 1 20 1000 200
