@@ -1,0 +1,7 @@
+# Parameters for abelian sandpile simulation
+# (1) border conditions: True = cilindrical, False = none
+# (2) directed or not
+# (3) grid size
+# (4) simulation time steps
+# (5) number of grains added per step
+0 1 50 1000 200
